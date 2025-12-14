@@ -23,7 +23,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/kvya6/SpendSense/main/login.png" width="200" />
   <img src="https://raw.githubusercontent.com/kvya6/SpendSense/main/home.png" width="200" />
-  <img src="https://raw.githubusercontent.com/kvya6/SpendSense/main/analytics.png" width="200" />
+  <img src="https://raw.githubusercontent.com/kvya6/SpendSense/main/income.png" width="200" />
+  <img src="https://raw.githubusercontent.com/kvya6/SpendSense/main/analysis.png" width="200" />
   <img src="https://raw.githubusercontent.com/kvya6/SpendSense/main/budget.png" width="200" />
 </p>
 
